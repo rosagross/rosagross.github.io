@@ -6,4 +6,8 @@ author_profile: true
 comments: true
 ---
 
-HOME
+### HOME
+
+{% for post in site.posts limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
