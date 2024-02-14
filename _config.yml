@@ -106,8 +106,7 @@ analytics:
 author:
   name             : "Rosa Großmann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I just finished my Masters at the University of Amsterdam."
-  location         : "Somewhere"
+  bio              : "PhD student in the Brain Networks Lab at the Max Planck Institute in Leipzig"
   email            : "grossmann.rc@gmail.com"
   links:
     - label: "Email"
