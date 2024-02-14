@@ -7,11 +7,8 @@ comments: true
 entries_layout: grid
 ---
 
-This is my blog page.
-
-
-<!--- 
-{% for post in site.posts %} 
+<!--- change limit from 1 to no limit! -->
+{% for post in site.posts limit:1 %} 
   {% include archive-single.html %}
 {% endfor %} 
--->
+
