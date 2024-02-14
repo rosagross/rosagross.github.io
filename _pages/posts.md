@@ -4,6 +4,7 @@ layout: archive
 permalink: /Posts/
 author_profile: true
 comments: true
+entries_layout: grid
 ---
 
 This is my blog page.
