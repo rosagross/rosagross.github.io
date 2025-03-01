@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Bluesky"
-      icon: "/images/bluesky_media_kit_logo_svgs.svg"
+      icon: "fas fa-fw fa-square"
       url: "https://bsky.app/profile/rosacg.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
