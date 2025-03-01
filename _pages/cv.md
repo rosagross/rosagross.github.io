@@ -6,15 +6,14 @@ author_profile: true
 comments: true
 ---
 
-## Academic Background
+### Academic Background
 - **Since Oct. 2023**: Doctoral Researcher, Max Planck Institute of Human Brain and Cognitive Science, Leipzig, Germany  
   *Project*: Investigating the neural dynamics of tactile detection using neural mass modelling and EEG.
-
 - **2021 - 2023**: M.A. (Research) Brain and Cognitive Sciences (cum laude), Track Cognitive Neuroscience, University of Amsterdam, Netherlands
 - **2019**: University of Copenhagen, Denmark, Medical Image Analysis and Molecular Neurobiology (master's level), Exchange semester with ERASMUS+
 - **2017-2021**:  B.A. Cognitive Science, Osnabrück University, Germany
 
-## Research Experience
+### Research Experience
 
 - **Nov. 2022 - Jul. 2023**: Research intern at Champalimaud Foundation, Lisbon  
   *Task*: Building a computational model that investigates the role of serotonin in neural dynamics.
