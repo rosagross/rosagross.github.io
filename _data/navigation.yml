@@ -4,8 +4,8 @@ main:
     url: https://rosagross.github.io
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Posts"
-    url: /Posts
+  - title: "Projects"
+    url: /Projects
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

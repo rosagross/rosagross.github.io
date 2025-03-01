@@ -1,7 +1,7 @@
 ---
-title:  "Posts"
+title:  "Projects"
 layout: archive
-permalink: /Posts/
+permalink: /Projects/
 author_profile: true
 comments: true
 entries_layout: grid
